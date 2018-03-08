@@ -1,0 +1,24 @@
+{
+  "name": "r7test",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-dev":"karma start --auto-watch",
+    "test-open": "gulp coverage --auto-watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "gulp": "^3.9.0",
+    "gulp-open": "^1.0.0",
+    "jasmine-core": "^3.1.0",
+    "karma": "^0.13.15",
+    "karma-chai": "^0.1.0",
+    "karma-coverage": "^0.5.3",
+    "karma-jasmine": "^0.1.0",
+    "karma-phantomjs-launcher": "^0.2.1",
+    "phantomjs": "^1.9.19"
+  }
+}
