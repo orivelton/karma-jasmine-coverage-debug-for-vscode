@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test-dev":"karma start --auto-watch",
-    "test-open": "gulp coverage"
+    "test-open": "gulp coverage --auto-watch"
   },
   "author": "",
   "license": "ISC",

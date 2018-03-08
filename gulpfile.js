@@ -14,7 +14,7 @@ gulp.task('unit:coverage', function(done) {
             action: 'run',
             singleRun: true,
             preprocessors: {
-                'calculator/js/*.js': ['coverage']
+                'src/js/*.js': ['coverage']
             },
             reporters: ['progress', 'coverage'],
             coverageReporter: {
