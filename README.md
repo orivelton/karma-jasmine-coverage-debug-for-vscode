@@ -7,7 +7,9 @@ Coverage e Degub para VScode.
 --Temos 3 funcionalidades;
 
 1 - Teste com watch no terminal.
+
 2 - Dasboard utilizando Coverage.
+
 3 - Debug para VScode \O/... (Outras IDEs é precisa ser implementado ;) ).
 
 ## Config do VScode para Debug
@@ -27,4 +29,5 @@ Coverage e Degub para VScode.
 ## Task runner
 
 npm run test-dev // teste no terminal com watch
+
 npm run test-open // Dashboard 
