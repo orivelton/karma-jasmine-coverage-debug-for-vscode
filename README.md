@@ -2,9 +2,9 @@
 ## Testes automatizado com Karma e Jasmine
 
 Para a qualidade do software foi implementado testes com Jasmine e Karma, dashboard com
-Coverage e Degub para VScode.
+coverage e debug para VScode.
 
---Temos 3 funcionalidades;
+Temos 3 funcionalidades;
 
 1 - Teste com watch no terminal.
 
