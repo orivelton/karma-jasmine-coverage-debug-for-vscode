@@ -1,20 +1,19 @@
 
-## Testes automatizado com Karma e Jasmine
+## Automated test with Karma and Jasmine
 
-Para a qualidade do software foi implementado testes com Jasmine e Karma, dashboard com
-coverage e debug para VScode.
+It has been implemented tests with Jasmine and Karma, dashboard with coverage and debugger for VScode.
 
-Temos 3 funcionalidades;
+We have 3 functionalities;
 
-1 - Teste com watch no terminal.
+1 - Test with watch in terminal.
 
-2 - Dasboard utilizando Coverage.
+2 - Dashboard using Coverage.
 
-3 - Debug para VScode \O/... (Outras IDEs é precisa ser implementado ;) ).
+3 - Debug for VScode \ O / ... (Other IDEs need to be implemented;)).
 
-## Config do VScode para Debug
+## VScode Config for Debug
 
-1 - Adicione as configurações ao arquivo launch.json 
+1 - Add settings to file launch.json 
     
     /.vscode/launch.json
 
@@ -26,12 +25,15 @@ Temos 3 funcionalidades;
         "webRoot": "${workspaceRoot}"
     }
 
-## Task runner
 
-npm run test-dev // teste no terminal com watch
 
-npm run test-open // Dashboard com a análise de cobertura feito pelo Coverage
+## Task runner for terminal
 
+npm run test-dev 
+
+## Task runner Launch Chrome Karma
+
+npm run test-open
 
 ## Plugins
 
