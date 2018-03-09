@@ -16,7 +16,7 @@ gulp.task('unit:coverage', function(done) {
             preprocessors: {
                 'src/js/*.js': ['coverage']
             },
-            reporters: ['progress', 'coverage'],
+            reporters: ['traackr', 'coverage'],
             coverageReporter: {
                 type : 'html',
                 dir : 'coverage/',

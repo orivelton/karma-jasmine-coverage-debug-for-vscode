@@ -30,4 +30,17 @@ Temos 3 funcionalidades;
 
 npm run test-dev // teste no terminal com watch
 
-npm run test-open // Dashboard 
+npm run test-open // Dashboard com a análise de cobertura feito pelo Coverage
+
+
+## Plugins
+
+http://chaijs.com/
+
+## Automatizador
+
+https://gulpjs.com/
+
+## Karma Reporter
+
+https://www.npmjs.com/package/karma-traackr-reporter
