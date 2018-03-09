@@ -39,7 +39,7 @@ npm run test-open
 
 http://chaijs.com/
 
-## Automatizador
+## Automation
 
 https://gulpjs.com/
 
